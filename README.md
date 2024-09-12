@@ -95,4 +95,4 @@ git push origin problem/your-problem-name
 
 ## License
 
-This repository is licensed under the MIT License. Feel free to use and modify the code as per the license terms.
+This repository is licensed under the [MIT License](LICENSE) . Feel free to use and modify the code as per the license terms.
