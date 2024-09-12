@@ -15,7 +15,7 @@ Welcome to the LeetCode Problems repository! This repository contains solutions 
 To get started with this repository, clone it to your local machine:
 
 ```bash
-https://github.com/MohdFaizU/LeetCode-Problems.git
+git clone https://github.com/MohdFaizU/LeetCode-Problems.git
 ```
 Navigate into the repository:
 
