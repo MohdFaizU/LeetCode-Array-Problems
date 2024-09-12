@@ -1,7 +1,3 @@
-# Problems List
-
-This document provides a list of array problems from LeetCode covered in this repository, along with their descriptions and links to the solution files.
-
 ## Problem List
 
 1. **Two Sum**
