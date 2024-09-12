@@ -4,24 +4,11 @@ Welcome to the LeetCode Problems repository! This repository contains solutions 
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
 - [Problems Covered](#problems-covered)
 - [Solution Formats](#solution-formats)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
-## Getting Started
-
-To get started with this repository, clone it to your local machine:
-
-```bash
-git clone https://github.com/MohdFaizU/LeetCode-Problems.git
-```
-Navigate into the repository:
-
-```bash
-cd LeetCode-Problems
-```
 ## Problems Covered
 
 This repository includes solutions to a variety of problems from LeetCode, including but not limited to:
