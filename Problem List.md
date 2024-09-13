@@ -1,9 +1,5 @@
 ## Problem List
 
-- **Two Sum**
-   - **Description**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-   - **Solution File**: [two_sum.py](solutions/two_sum.py)
-
 - **Concatenation of Array**
    - **Description**: Given an integer array `nums` of length `n`, return the array `nums` concatenated with itself.
    - **Solution File**: [LeetCode 1929](LeetCode1929.py)
